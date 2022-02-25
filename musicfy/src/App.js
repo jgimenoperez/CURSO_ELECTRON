@@ -3,7 +3,7 @@ import './App.css';
 import firebase from './utils/Firebase'
 
 function App() {
-  console.log(11111)
+  console.log(111)
   return (
     <div>
       <h1>App Electron + React</h1>
